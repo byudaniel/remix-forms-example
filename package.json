@@ -4,15 +4,21 @@
   "description": "",
   "license": "",
   "dependencies": {
+    "@hookform/resolvers": "^2.8.8",
     "@remix-run/react": "^1.2.1",
+    "@remix-run/serve": "^1.2.1",
+    "cross-env": "^7.0.3",
+    "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-hook-form": "^7.27.1",
     "remix": "^1.2.1",
-    "@remix-run/serve": "^1.2.1",
-    "cross-env": "^7.0.3"
+    "zod": "^3.11.6"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.2.1",
+    "@types/lodash": "^4.14.178",
+    "@types/qs": "^6.9.7",
     "@types/react": "^17.0.24",
     "@types/react-dom": "^17.0.9",
     "typescript": "^4.1.2"
